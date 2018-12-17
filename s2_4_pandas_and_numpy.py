@@ -12,4 +12,4 @@ print(new_open)
 
 #Show that it is a numpy array
 print(type(new_open))
-#A panda series is actually a one dimensional 
+#A panda series is actually a one dimensional numpy array.
