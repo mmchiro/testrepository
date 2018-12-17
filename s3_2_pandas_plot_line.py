@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 #Import data file
 stock_prices = pd.read_csv("intel_amd_stock_prices.csv")
-
+  
 
 #Print data frame
 print(stock_prices)
